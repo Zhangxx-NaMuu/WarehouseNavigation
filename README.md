@@ -30,7 +30,7 @@
 
 ## 嵌体生成（2021）
 
-[仓库链接](https://github.com/Zhangxx-NaMuu/InlayGeneration)
+[仓库链接](https://github.com/Zhangxx-NaMuu/InlayGeneration/（以后删掉）)
 
 使用pix2pix+深度图方式，进行3d局部修复，也可以用于3d全冠自适应彼岸性（用局部生成的点作为目标点，让模板牙进行约束性变形）
 
