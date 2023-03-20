@@ -36,7 +36,7 @@
 
 ## 全冠生成(2021)
 
-[仓库链接](https://github.com/Zhangxx-NaMuu?tab=repositories)
+[仓库链接](https://github.com/Zhangxx-NaMuu/CrownGeneration/（以后删掉）)
 
 借鉴occupancy_network网格的隐式表示，根据生成位与邻牙呈线性关系，采用光流方式进行3d全冠重建。
 
@@ -44,7 +44,7 @@
 
 ## 牙颌分割/自动分牙(2021)
 
-[仓库链接](https://github.com/Zhangxx-NaMuu/TeethSegmentation)
+[仓库链接](https://github.com/Zhangxx-NaMuu/TeethSegmentation/（以后删掉）)
 
 用于正畸预处理步骤，基于pointnet进行点云的牙位分割。
 
